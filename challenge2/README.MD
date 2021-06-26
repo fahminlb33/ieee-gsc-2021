@@ -2,7 +2,7 @@
 
 ## Requirements
 
-You'll need the virtual environment from `challenge1` folder to run the `transform_dataset.py` script. However, to run the script in the `modelling_sparknlp.ipynb` and `modelling_tensorflow.ipynb` you'll need to upload the notebook into Kaggle Notebooks. This is because I use Spark NLP and TensorFlow Hub library with a preconfigured install script for Kaggle. Also, I haven't tried running the script on my local computer. The use of Kaggle Notebook is necessary because I don't have a computer with sufficent processing power to run the script (I keep getting out of memory error and/or slow training with ETA up to 13 hours per epoch, which is really not great).
+You'll need the virtual environment from `challenge1` folder to run the `transform_dataset.py` script. However, to run the script in the `modelling_sparknlp.ipynb` and `modelling_tensorflow.ipynb` you'll need to upload the notebook into Kaggle Notebooks. This is because I use Spark NLP and TensorFlow Hub library with a preconfigured install script for Kaggle. Also, I haven't tried running the script on my local computer. The use of Kaggle Notebook is necessary because I don't have a computer with sufficent processing power to run the script (I keep getting out of memory error and/or slow training with ETA up to 13 hours per epoch).
 
 ## How to run
 
